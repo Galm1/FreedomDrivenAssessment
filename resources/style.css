@@ -1,3 +1,9 @@
 div.navbar-nav a:hover {
   color: #fff !important;
 }
+
+@media (max-width 768px) {
+  .sectionDiv {
+    width: 50%;
+  }
+}
